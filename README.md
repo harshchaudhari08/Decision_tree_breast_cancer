@@ -1,0 +1,1 @@
+This is a Decision Tree classification Project on the Breast Cancer dataset. In this project, I have used data preprocessing techniques to improve the performance of the model. Principal Component Analysis has also been performed in the end.
